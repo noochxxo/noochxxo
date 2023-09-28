@@ -9,7 +9,7 @@ I'm currently looking for work. I would love to be apart of a dev team working o
 Im always learning new skills and my weakness is I see a new technology and jump over to learn it haha
 But I am working changin that, I have been sticking with Next JS Next JS Next JS NEXT JS!! 
 
-
+![Jason_Freddy](./JV_Freddy.gif)
 
 
 - 🔭 I’m currently working on my ecommerce site [Noochxxo.Shoes](https://www.noochxxo.shoes/)
