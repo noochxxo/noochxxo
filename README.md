@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! Whats Shakin, Bacon 😛
 
 
 - 🔭 I’m currently working on my ecommerce site [Noochxxo.Shoes](https://www.noochxxo.shoes/)
