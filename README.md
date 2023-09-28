@@ -3,7 +3,7 @@
 ### A bit about me
 I started a shoe business [Noochxxo.Shoes](https://www.noochxxo.shoes/) pronounce Nooch's.
 In my search for cool shoes I realized that what Im searching for isnt out there. So I created my own.
-I started with mushroom designs But I am working on a cool pirate scene and Graveyard scenes.
+I started with mushroom designs But I am working on a cool Pirate scene and Graveyard scenes.
 
 I'm currently looking for work. I would love to be apart of a dev team working on games, SAAS or ecommerce.
 Im always learning new skills and my weakness is I see a new technology and jump over to learn it haha
