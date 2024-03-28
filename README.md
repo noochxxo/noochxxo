@@ -1,15 +1,23 @@
 ### Hey! Whats Shakin, Bacon 😛
 
-### A bit about me
-Iv kind of neglected the bellow project, I will go back to it (╥_╥)  
-I started a shoe business [Noochxxo.Shoes](https://www.noochxxo.shoes/) pronounce Nooch's.  
-In my search for cool shoes I realized that what Im searching for isnt out there. So I created my own.  
-I started with mushroom designs But I am working on a cool Pirate scene and Graveyard scenes.   
+I got ChatGPT (Chat jippity) to optimize my profile 💀  
 
-I'm currently looking for remote work as I live on a farm near a small town.  
-Im always learning new skills and my weakness CSS. Not gunna lie, I started coding about 20 years ago  
-and I just cant stand CSS. Im mostly self taught but a few years back I went to Vancouver Film School  
-for software development. And I have a subscription to Zero To Mastery that I use to improve my skills.  
+### A bit about me
+👋 Hey there! I'm Eric, a Creative Code Wizard 🧙‍♂️ and Digital Craftsman from the Land of Code and Magic Mushrooms 🍄 (aka, a small farm near a quaint town).  
+
+🚀 What I'm Up To:
+
+👠 Stepping Up the Shoe Game: I'm the brain and brawn behind Noochxxo.Shoes. It's not just a shoe store; it's a voyage into the fantastical - think mushrooms meet pirates and graveyards. Because why not?  
+🌐 Building a Digital Town Square: Crafting LocalLowdown, a cozy corner on the web for small communities to mingle, share, and stay connected. Down with old bulletin boards, long live digital connection!  
+🎮 Game On, Echoes of Villains: Currently cooking up a game in Godot. It's all about a villain's redemption arc, because hey, villains need love too!  
+🌟 Fun Facts About Me:  
+
+Horror Buff Extravaganza: I live and breathe horror films. Just watched "Talk To Me" - 10/10 would get possessed again.  
+CSS, My Friendly Foe: I’ve been coding for 20 years, but CSS and I have a love-hate relationship. It's complicated.  
+Learner by Heart: Whether it’s through a course at Vancouver Film School or binge-learning on Zero To Mastery, my brain's always on a coding marathon.  
+📬 Let's Connect!  
+
+Drop a "boo!" or a "hi!" on my Insta: @Noochxxo and @Noochxxo.Shoes  
 
 ### Skills
 
@@ -29,15 +37,5 @@ for software development. And I have a subscription to Zero To Mastery that I us
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)  
 █████████░░░░░░░ 60%
 
-
-
-- 🔭 At the moment I am not (╥_╥) working on my ecommerce site [Noochxxo.Shoes](https://www.noochxxo.shoes/)  
-- 🤯 Im working on making a social media site for small communities to reach out and interact with the people that live there.  
-      I live in a small town and they still use bulletin boards to post what is happening. That doesnt reach everyone.  
-- 👾 I am also making a game in Godot. Its called Echo of Echos but I want to change the name to Echos of Villians.  
-      You play as a game villian that was defeated by the hero and now you are in a coma and trying to get your memories back.  
-- 📫 How to reach me: my instagram accounts are [Noochxxo](https://www.instagram.com/noochxxo/) and [Noochxxo.Shoes](https://www.instagram.com/noochxxo.shoes/)  
-- ⚡ Im a big fan of horror films, I recently watched Talk To Me and I highly recommend it to people who are fans of possession films.  
-      Talk To Me has a new take on the genre  
 
 ![Jason_Freddy](./JV_Freddy.gif)
