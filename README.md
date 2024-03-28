@@ -15,6 +15,7 @@ I got ChatGPT (Chat jippity) to optimize my profile 💀
 Horror Buff Extravaganza: I live and breathe horror films. Just watched "Talk To Me" - 10/10 would get possessed again.  
 CSS, My Friendly Foe: I’ve been coding for 20 years, but CSS and I have a love-hate relationship. It's complicated.  
 Learner by Heart: Whether it’s through a course at Vancouver Film School or binge-learning on Zero To Mastery, my brain's always on a coding marathon.  
+
 📬 Let's Connect!  
 
 Drop a "boo!" or a "hi!" on my Insta: @Noochxxo and @Noochxxo.Shoes  
