@@ -37,6 +37,7 @@ for software development. And I have a subscription to Zero To Mastery that I us
 - 👾 I am also making a game in Godot. Its called Echo of Echos but I want to change the name to Echos of Villians.  
       You play as a game villian that was defeated by the hero and now you are in a coma and trying to get your memories back.  
 - 📫 How to reach me: my instagram accounts are [Noochxxo](https://www.instagram.com/noochxxo/) and [Noochxxo.Shoes](https://www.instagram.com/noochxxo.shoes/)  
-- ⚡ Im a big fan of horror films, I recently watched Talk To Me and I highly recommend it to people who are fans of possession films. Talk To Me has a new take on the genre  
+- ⚡ Im a big fan of horror films, I recently watched Talk To Me and I highly recommend it to people who are fans of possession films.  
+      Talk To Me has a new take on the genre  
 
 ![Jason_Freddy](./JV_Freddy.gif)
