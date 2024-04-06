@@ -8,6 +8,7 @@ I got ChatGPT (Chat jippity) to optimize my profile 💀
 
 👠 Stepping Up the Shoe Game: I'm the brain and brawn behind Noochxxo.Shoes.  
     It's not just a shoe store; it's a voyage into the fantastical - think mushrooms meet pirates and graveyards. Because why not?   
+    Currently rebuilding the website.  
 
 🌐 Building a Digital Town Square: Crafting LocalLowdown, a cozy corner on the web  
     for small communities to mingle, share, and stay connected. Down with old bulletin boards, long live digital connection!   
