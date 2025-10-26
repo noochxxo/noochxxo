@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hey, I'm from Trotchie Digital Solutions
 
-<!--
-**noochxxo/noochxxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer** specializing in modern web applications with Next.js, TypeScript, and scalable architectures.
 
-Here are some ideas to get you started:
+## 🚀 What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Modern Web Apps** with Next.js 15 + App Router
+- **Type-Safe APIs** using Drizzle ORM + PostgreSQL
+- **Authentication Systems** with Supabase SSR
+- **Payment Integration** via Stripe
+- **Responsive UIs** with Tailwind CSS v4
+
+## 💼 Current Tech Stack
+
+```typescript
+const techStack = {
+  frontend: ["Next.js 15", "TypeScript", "Tailwind CSS v4"],
+  backend: ["Supabase", "Drizzle ORM", "Server Actions"],
+  database: ["PostgreSQL", "Drizzle Kit"],
+  payments: ["Stripe"],
+  deployment: ["Netlify"],
+  tools: ["pnpm", "Zod validation"]
+}
+```
+
+## 🎯 Available for Freelance
+
+I help businesses build **fast, scalable web applications** with clean architecture and modern best practices.
+
+**What I deliver:**
+- Server-first applications with optimized performance
+- Type-safe, maintainable codebases
+- Seamless user authentication & payments
+- Responsive, accessible interfaces
+
+---
+
+**Ready to work together?** 
+🌐 [trotchiedigital.com](https://trotchiedigital.com) | 📧 Let's discuss your project
