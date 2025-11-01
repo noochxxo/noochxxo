@@ -4,7 +4,7 @@
 
 ## 🚀 What I Build
 
-- **Modern Web Apps** with Next.js 15 + App Router
+- **Modern Web Apps** with Next.js 16 + App Router
 - **Type-Safe APIs** using Drizzle ORM + PostgreSQL
 - **Authentication Systems** with Supabase SSR
 - **Payment Integration** via Stripe
@@ -14,7 +14,7 @@
 
 ```typescript
 const techStack = {
-  frontend: ["Next.js 15", "TypeScript", "Tailwind CSS v4"],
+  frontend: ["Next.js 16", "TypeScript", "Tailwind CSS v4"],
   backend: ["Supabase", "Drizzle ORM", "Server Actions"],
   database: ["PostgreSQL", "Drizzle Kit"],
   payments: ["Stripe"],
